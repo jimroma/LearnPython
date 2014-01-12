@@ -6,11 +6,11 @@ eyes = 'black'
 teeth = 'yellow'
 hair = 'green'
 
-print "Let's talk about %s" % name 
-print "He's %d inches tall." % height
-print "He's %d pounds heavy." % weight 
+print "Let's talk about %s" % name # string formatter
+print "He's %d inches tall." % height # digit formatter
+print "He's %d pounds heavy." % weight # digit formatter 
 print "Actually that's not too heavy." 
-print "He's got %s eyes and %s hair." % (eyes, hair)
+print "He's got %s eyes and %s hair." % (eyes, hair) # two string formatters using ()
 print "His teeth are usually %s depending on the coffee" % teeth
  
 #tricky
