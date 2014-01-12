@@ -11,3 +11,4 @@ print formatter % (
 	"But it didn't sing.",
 	"Timmy"
 )
+# more formatter with strings
