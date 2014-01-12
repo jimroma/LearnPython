@@ -18,6 +18,6 @@ print joke_eval % hilarious
 w = "This is the left side of..."
 e = "a string with a right side."
 
-print w + e # you need the + to concatentate the two strings because this gives you a space
+print w + e
 print "blah"
-print w,e #no space when using a comma to concatenate the strings
+print w,e
